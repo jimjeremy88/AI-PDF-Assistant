@@ -1,3 +1,9 @@
+<img width="2879" height="1560" alt="Screenshot 2026-07-10 011753" src="https://github.com/user-attachments/assets/87ca7407-766a-4fab-ae85-52a4885ad403" />
+<img width="2879" height="1592" alt="Screenshot 2026-07-10 013450" src="https://github.com/user-attachments/assets/3eaf9192-5411-46ea-988b-ef31cf80d3b0" />
+<img width="2879" height="1623" alt="Screenshot 2026-07-10 013043" src="https://github.com/user-attachments/assets/40240f29-5e74-4873-a2af-2d48b6a94d15" />
+<img width="2879" height="1622" alt="Screenshot 2026-07-10 012707" src="https://github.com/user-attachments/assets/7a7ec0fa-30f3-4491-87e5-2b9d6d86d292" />
+<img width="2879" height="1616" alt="Screenshot 2026-07-10 012503" src="https://github.com/user-attachments/assets/5ee200de-58cb-496d-aad6-1a1395adaeef" />
+<img width="2879" height="1563" alt="Screenshot 2026-07-10 011834" src="https://github.com/user-attachments/assets/ebf677a7-314f-4853-8890-d0a88ff0d933" />
 # Enterprise AI PDF Knowledge Assistant
 
 A completely customized, production-grade, local RAG application built strictly upon **SOLID Principles** and **Clean Architecture**. This application features zero-telemetry local processing, a responsive custom CSS dashboard, and graceful error handling.
