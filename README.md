@@ -39,11 +39,9 @@ A local, privacy-first Retrieval-Augmented Generation (RAG) application for quer
 
 | | |
 |---|---|
-| ![Initial state — dark theme](docs/screenshot-dark-initial.png) <br> Initial dashboard state (dark theme) with a PDF uploaded and indexed | ![Chat with citations](docs/screenshot-chat.png) <br> Conversational Q&A over an indexed document, including a follow-up query |
-| ![Upload panel — dark theme](docs/screenshot-upload-dark.png) <br> Upload panel before indexing (dark theme) | ![Upload panel — light theme](docs/screenshot-upload-light.png) <br> Same panel in light theme |
-| ![Backend infrastructure call](docs/screenshot-backend-call.png) <br> Backend infrastructure invocation during a query | ![Session with chat history](docs/screenshot-session.png) <br> Active session with indexed chunks and chat history controls |
-
-> Screenshot files are referenced from a `docs/` folder for illustration. Replace the paths above with the actual location of your image assets in the repository.
+| <img width="800" alt="Initial dashboard state" src="https://github.com/user-attachments/assets/12d5a8ed-ecd5-40b3-84db-1b22216e8c9d" /> <br> Initial dashboard state with a PDF uploaded and indexed, ready for questions | <img width="800" alt="Conversational Q&A with citations" src="https://github.com/user-attachments/assets/d617e5a9-120d-4d0d-8ac6-e4281a040a4c" /> <br> Conversational Q&A over an indexed document, including a contextual follow-up query |
+| <img width="800" alt="Upload panel, dark theme" src="https://github.com/user-attachments/assets/cdc0b102-fd69-45c8-a65b-861c0138704c" /> <br> Upload panel before indexing (dark theme) | <img width="800" alt="Upload panel, light theme" src="https://github.com/user-attachments/assets/cdbb8ef0-c6ce-40af-b643-57649708d147" /> <br> Same upload panel rendered in light theme |
+| <img width="800" alt="Backend infrastructure call in progress" src="https://github.com/user-attachments/assets/b52d0e69-06c8-418f-b393-3dafdf9e7ba6" /> <br> Backend infrastructure invocation while a query is processed | <img width="800" alt="Active session with chat history controls" src="https://github.com/user-attachments/assets/63fc988c-0d2a-4193-bb09-13514fae3554" /> <br> Active session showing indexed chunk count and chat history controls |
 
 ---
 
